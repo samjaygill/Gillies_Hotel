@@ -1,0 +1,35 @@
+.add-container {
+    display: grid;
+    gap: 80px;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  .add-card {
+    background: white;
+    border: none;
+    border-radius: 10px;
+    padding: 60px;
+    font: inherit;
+    justify-content: center;
+    justify-items: center;
+    color: black;
+    text-align: center;
+  }
+  .add-heading{
+    color: #4b4b4b;
+  }
+  .add-submit{
+    background-color: #4b4b4b;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    margin-top: 10px;
+  }
+  .add-name{
+    margin-bottom: 10px;
+  }
+  .add-email{
+    margin-bottom: 10px;
+  }
+  

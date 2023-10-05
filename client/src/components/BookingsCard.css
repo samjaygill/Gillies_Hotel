@@ -1,0 +1,13 @@
+.booking-details{
+    text-align: center;
+    font-size: 15px;
+}
+
+.booking-delete{
+    border: none;
+    background: none;
+    font-size: 20px;
+}
+.booking-name{
+    font-weight: bold;
+}

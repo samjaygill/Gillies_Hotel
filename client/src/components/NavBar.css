@@ -1,0 +1,41 @@
+.nav-logo{
+    height:120px;
+    padding-left: 20px;
+
+}
+.hr-style{
+    border: 1px white solid;
+    margin-top: 5px;
+}
+.nav-auto{
+    text-align: center;
+    padding-bottom: 30px
+;
+}
+.nav-home{
+    padding: 0px 10px 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-home:hover{
+    font-size: larger;
+    text-decoration: underline;
+}
+.nav-booking{
+    padding: 0px 10px 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-booking:hover{
+    font-size: larger;
+    text-decoration: underline;
+}
+.nav-add{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-add:hover{
+    font-size: larger;
+    text-decoration: underline;
+}
